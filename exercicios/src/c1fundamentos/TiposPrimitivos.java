@@ -11,7 +11,7 @@ public class TiposPrimitivos
 		//Necessita de um L no final do literal inteiro, para declarar o long.
 		long d = 3_123_321_142L;
 		
-		//Tipos numéricos reais
+		//Tipos numï¿½ricos reais
 		float e = 3.1415F;
 		
 		//Tipo boolean
@@ -27,5 +27,7 @@ public class TiposPrimitivos
 		System.out.println(e);
 		System.out.println(f);
 		System.out.println(g);
+
+		System.out.println("Hello World and Universe.")
 	}
 }
